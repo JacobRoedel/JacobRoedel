@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JacobRoedel
 - 👀 I’m a current Sophomore at The George Washington University studying Computer Science 
-- 🌱 I’m currently learning Systems Engineering, Foundations of Computing, and Database Systems
+- 🌱 I’m currently learning Systems Programming, Foundations of Computing, and Database Systems
 - 📫 How to reach me ... jacobroedel22@gwmail.gwu.edu
 
 <!---
