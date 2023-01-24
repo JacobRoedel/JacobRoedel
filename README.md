@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JacobRoedel
 - 👀 I’m a current Junior at The George Washington University studying Computer Science 
-- 🌱 I’m currently learning Operating Systems, Algorithms, and Computer Networks
+- 🌱 I’m currently learning Software Design for Handheld Devices, Computer Graphics, and Engineering Analysis 
 - 📫 How to reach me ... jacobroedel22@gwmail.gwu.edu
 
 <!---
